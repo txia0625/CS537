@@ -1,4 +1,4 @@
-# A Basic Shell
+# Wisconsin Shell(Wish)
 
 ## Features
 1. change directory
