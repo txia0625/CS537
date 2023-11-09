@@ -1,9 +1,5 @@
 # Unix Shell (Wish)
 
-## Project Overview
-
-This project revolves around building a simple Unix shell, which acts as the core of a command-line interface. A fundamental understanding of the shell's operation is crucial in the Unix/C programming environment. The aim of this project is to familiarize oneself with the Linux programming environment, comprehend process management, and grasp the essential functionalities in shell implementation.
-
 
 ## Shell Description
 
@@ -60,3 +56,4 @@ To compile the shell:
 
 ```bash
 gcc -o wish wish.c
+```
